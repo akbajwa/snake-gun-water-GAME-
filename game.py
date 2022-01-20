@@ -1,5 +1,5 @@
 import random
-
+#python project
 # Snake Water Gun or Rock Paper Scissors
 def gameWin(comp, you):
     # If two values are equal, declare a tie!
